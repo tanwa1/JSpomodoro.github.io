@@ -54,7 +54,7 @@ function appTimer(){
     isPaused = false;
     bells.pause();
     bells.currentTime = 0;
-    session.textContent = '1';
+    session.textContent = '25';
     secondDiv.textContent = '00';
   }
 
